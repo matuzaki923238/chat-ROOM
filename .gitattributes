@@ -1,0 +1,3 @@
+# Maven起動用ファイルの改行コードを固定する（WindowsとMacのメンバーが混ざっても動くように）
+/mvnw text eol=lf
+*.cmd text eol=crlf
